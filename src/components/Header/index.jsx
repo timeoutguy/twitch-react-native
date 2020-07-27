@@ -9,13 +9,13 @@ const Header = () => {
       <Avatar source={require('../../images/avatar.png')} />
       <Icons>
         <Icon>
-          <Feather name="bell" size={24} color="#555" /> 
+          <Feather name="bell" size={24} color="#222" /> 
         </Icon>
         <Icon>
-          <MaterialIcons name="chat-bubble-outline" size={24} color="#555" /> 
+          <MaterialIcons name="chat-bubble-outline" size={24} color="#222" /> 
         </Icon>
         <Icon>
-          <Octicons name="search" size={24} color="#555" /> 
+          <Octicons name="search" size={24} color="#222" /> 
         </Icon>
         
         

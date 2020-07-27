@@ -19,7 +19,7 @@ export const Icons = styled.View`
   flex-direction: row;
 `;
 
-export const Icon = styled.View`
-  margin-left: 32px;
+export const Icon = styled.TouchableOpacity`
+  margin-left: 28px;
 `;
 
